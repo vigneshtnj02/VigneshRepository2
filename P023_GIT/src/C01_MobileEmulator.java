@@ -28,6 +28,8 @@ public class C01_MobileEmulator {
 		Thread.sleep(3000);
 		
 		driver.findElement(By.linkText("Library")).click();
+		
+		//Additional lines to learn Git changes
 	}
 
 }
